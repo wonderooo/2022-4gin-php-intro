@@ -44,3 +44,6 @@ https://learnxinyminutes.com/docs/php/
 ## Zadanie 5
 
 1. Uporządkuj swój kod na zajęcia w najbliższą środę - korzystając z dotychczas wydevelopowanego kodu będziemy tworzyć klasę Tablica z odpowiednimi właściwościami i medotami
+2. >| 1 | 2 | 2 |
+   >|---|---|---|
+   >| 2 | 4 | 5 |
